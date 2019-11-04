@@ -53,7 +53,7 @@ setTimeout(function () {
       // console.log("non ti sei ricordato nessun numero");
     }
    }
-}, 3000);
+}, 30000);
 
 
 
